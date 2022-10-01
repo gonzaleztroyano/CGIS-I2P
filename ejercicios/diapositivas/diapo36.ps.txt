@@ -1,0 +1,14 @@
+# Escribir un algoritmo que realice la suma
+# de todos los números pares entre 2 y 1000
+
+PSEUDOCÓDIGO // ALGORITMO
+
+ 1. Contar desde 2 a 1000. Para cada número:
+    2. ¿He llegado hasta el número final?
+        3. Si he llegado    --> Parar la ejecución y mostrar resultado. 
+        4. Si no he llegado --> Continuar ejecución. 
+    5. ¿Es número par?
+        6. Si es par --> sumarlo
+        7. Si no es par --> Pasar al siguiente número
+    8. Pasar al siguiente número
+    
