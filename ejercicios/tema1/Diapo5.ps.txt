@@ -1,0 +1,8 @@
+INICIO
+      Preparar una jarra vacía, 3 limones, 3 cucharadas de azúcar y un litro de agua fría
+      Llenar jarra con un litro de agua
+      Exprimir el zumo de los 3 limones
+      Echar las 3 cucharadas de azúcar
+      Remover para disolver el azucar
+      Servir en vasos
+FIN

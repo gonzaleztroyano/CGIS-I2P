@@ -1,0 +1,8 @@
+INICIO
+      Encender TV
+      MIENTRAS no sea canal favorito
+            Avanzar canal
+      FIN MIENTRAS
+      Regular volumen
+      Acomodarse en el sofá
+FIN

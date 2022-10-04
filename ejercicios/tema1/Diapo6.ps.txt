@@ -1,0 +1,9 @@
+INICIO
+      ht --> Pedir horas trabajadas
+      SI ht > 40
+            he = ht - 40
+            s = t * 40 + he * (t * 1,5)
+      SI NO
+            s = h*t
+      Mostrar s
+FIN

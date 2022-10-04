@@ -1,0 +1,8 @@
+INICIO
+      Pedir importe del artículo --> ia
+      SI ia >= 100
+            descuento(d) = ia * 0.1
+      SI NO
+            descuento(d) = ia * 0,02
+      PRINT d
+FIN

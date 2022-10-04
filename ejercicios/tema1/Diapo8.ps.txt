@@ -1,0 +1,12 @@
+INICIO
+      Pedir camisas compradas --> cc
+      Pedir precio camisa     --> pc
+      SI cc >= 3 entonces
+            descuento(d)     = (cc*pc) * 0,2
+            precio_total(pt) = (cc*pv) - d
+      SI (else) cc > 3 entonces
+            descuento(d)     = (cc*pc) * 0,1
+            precio_total(pt) = (cc*pv) - d
+      FIN SI
+      Primt pt    
+FIN

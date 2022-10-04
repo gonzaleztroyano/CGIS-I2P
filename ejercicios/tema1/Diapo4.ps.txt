@@ -1,0 +1,9 @@
+INICIO
+      Insertar dados en cubilete
+      Lanzar los dados
+      Sumar los dos dados
+      SI suma de los dos dados es 6
+            Finalizar
+      SI NO
+            Volver al paso "Insertar dados en cubilete"
+FIN
