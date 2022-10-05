@@ -16,7 +16,7 @@
         * [Ejercicio resuelto en Python](./ejercicios/tema1/diapo36.py)
 
 ### Licencia
-Esta obra se publica bajo la licenca Creative Commons BY 4.0 International
+Esta obra se publica bajo la licencia Creative Commons BY 4.0 International
 
 Autor y año de publicación: Pablo González (y colaboradores), 2022
 
