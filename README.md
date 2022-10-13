@@ -29,8 +29,8 @@
 <br/>
 
 ### Licencia
-Esta obra se publica bajo la licencia Creative Commons BY 4.0 International
+Esta obra se publica, salvo indicación contraria en archivo específico, bajo la licencia Creative Commons BY 4.0 International
 
-Autor y año de publicación: Pablo González (y colaboradores), 2022
+Autor y año de publicación: Pablo González, terceros y colaboradores, 2022
 
 Más información en [el archivo de licencia](./license.md).
