@@ -19,12 +19,19 @@
 </details>
 
 <details>
-  <summary>Ejercicios Introducción Java</summary>
+  <summary>Ejercicios Introducción Java 1 </summary>
 
-  * Ejercicio 1 -  Gravity: [enunciado](./ejercicios/intro-java/ejercicio1-gravity.pdf)/[código](./ejercicios/intro-java/ejercicio1-gravity.java)
-  * Ejercicio 2 - Comparador: [enunciado](./ejercicios/intro-java/ejercicio2-comparador.pdf)/[código](./ejercicios/intro-java/ejercicio2-comparador.java)
-  * Ejercicio 3 - TimeConversor: [enunciado](./ejercicios/intro-java/ejercicio3-time_conversor.pdf)/[código](./ejercicios/intro-java/ejercicio3-time_conversor.java)
+  * Ejercicio 1 -  Gravity: [enunciado](./ejercicios/intro-java-1/ejercicio1-gravity.pdf)/[código](./ejercicios/intro-java-1/ejercicio1-gravity.java)
+  * Ejercicio 2 - Comparador: [enunciado](./ejercicios/intro-java-1/ejercicio2-comparador.pdf)/[código](./ejercicios/intro-java-1/ejercicio2-comparador.java)
+  * Ejercicio 3 - TimeConversor: [enunciado](./ejercicios/intro-java-1/ejercicio3-time_conversor.pdf)/[código](./ejercicios/intro-java-1/ejercicio3-time_conversor.java)
+</details>
 
+<details>
+  <summary>Ejercicios Introducción Java 2 </summary>
+  
+  * Ejercicio 4 - FooCorporation: [enunciado](./ejercicios/intro-java-2/ejercicio4-FooCorporation.pdf)/[código](./ejercicios/intro-java-2/ejercicio4-FooCorporation.java)
+  * Ejercicio 5 - PrintNumbers: [enunciado](./ejercicios/intro-java-2/ejercicio5-PrintNumbers.pdf)/[código](./ejercicios/intro-java-2/ejercicio5-PrintNumbers.java)
+  * Ejercicio 6 - Maraton: [enunciado](./ejercicios/intro-java-2/ejercicio6-Maraton.pdf)/[código](./ejercicios/intro-java-2/ejercicio6-Maraton.java)
 </details>
 <br/>
 
