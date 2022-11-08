@@ -17,7 +17,6 @@ public class Marathon {
             if (lista[i] < menor){
               menor = lista[i];
               po_menor = i;
-              
             };
             i += 1;
         };
@@ -29,17 +28,22 @@ public class Marathon {
         int po_menor = 99;
         int i = 0;
         int primero = calcula_menor(lista);
+        //System.out.println("Primero calculado: " + primero);
          for (int x: lista) {
+            //System.out.println("Check " + i + ": " + lista[i]);
             if ( i  == primero ) {
+                //System.out.println("Salgo CONTINUE en " + i + " // " + primero);
+               i += 1;
                continue; 
             }; 
             if (lista[i] < menor){
-              menor = lista[i];
-              po_menor = i;
-              
+                menor = lista[i];
+                po_menor = i;
+                //System.out.println("Encontrado MENOR en : ANTERIOR // posicion_menor // valor menor: " + menor + " // " + po_menor + " // " + lista[i]);
             };
             i += 1;
         };
+        //System.out.println("=======");
         return po_menor;
     };
     
