@@ -32,9 +32,10 @@
 
 ### Ejercicios Clases y Objetos
   
-  * Ejercicio 8 - Book: [enunciado](./ejercicios/classes-and-objects/Ejercicio-8_9-BookLibrary-Enunciado.pdf)/[código](./ejercicios/classes-and-objects/ejercicio-8/)
-  * Ejercicio 9 - Library: [enunciado](./ejercicios/classes-and-objects/Ejercicio-8_9-BookLibrary-Enunciado.pdf)/[código](./ejercicios/classes-and-objects/ejercicio-9/)
-
+  * Ejercicio 8  - Book: [enunciado](./ejercicios/classes-and-objects/Ejercicio-8_9-BookLibrary-Enunciado.pdf)/[código](./ejercicios/classes-and-objects/ejercicio-8/)
+  * Ejercicio 9  - Library: [enunciado](./ejercicios/classes-and-objects/Ejercicio-8_9-BookLibrary-Enunciado.pdf)/[código](./ejercicios/classes-and-objects/ejercicio-9/)
+  * Ejercicio 10 - FindMaxElement: [enunciado](./ejercicios/classes-and-objects/ejercicio-10/Ejercicio10_FindMaxElement_Enunciado.pdf)/[código](./ejercicios/classes-and-objects/ejercicio-10/)
+  * Ejercicio 11 - IsPalindrome: [enunciado](./ejercicios/classes-and-objects/ejercicio-11/Ejercicio11_IsPalindrome_Enunciado.pdf)/[código](./ejercicios/classes-and-objects/ejercicio-11/)
 <br/>
 
 ### Licencia
