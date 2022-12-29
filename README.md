@@ -30,6 +30,10 @@
   * Ejercicio 6 - Maraton: [enunciado](./ejercicios/intro-java-2/ejercicio6-Maraton.pdf)/[código](./ejercicios/intro-java-2/ejercicio6-Maraton.java)
 
 
+### Ejercicio Manejo de cadenas de texto
+  
+  * Ejercicio 7 - Strings: [enunciado](./ejercicios/strings/ejercicio7_ParseStrings.pdf)/[código](./ejercicios/strings/ejercicio7_ParseStrings.java)
+
 ### Ejercicios Clases y Objetos
   
   * Ejercicio 8  - Book: [enunciado](./ejercicios/classes-and-objects/Ejercicio-8_9-BookLibrary-Enunciado.pdf)/[código](./ejercicios/classes-and-objects/ejercicio-8/)
